@@ -1,0 +1,18 @@
+README.md
+pyproject.toml
+src/MultivariateBLF/MultivariateBLF.py
+src/MultivariateBLF/PartialLeastSquares.py
+src/MultivariateBLF/__init__.py
+src/MultivariateBLF/gp_kernels.py
+src/MultivariateBLF/helpers.py
+src/MultivariateBLF/prior_predictive_helper.py
+src/MultivariateBLF/stan_helper.py
+src/MultivariateBLF/visualization.py
+src/MultivariateBLF.egg-info/PKG-INFO
+src/MultivariateBLF.egg-info/SOURCES.txt
+src/MultivariateBLF.egg-info/dependency_links.txt
+src/MultivariateBLF.egg-info/top_level.txt
+src/MultivariateBLF/stan/MBLF.stan
+src/MultivariateBLF/stan/MBLF_D2_MGPSTrue_local_shrinkageTrue_heteroscedastic[True, False].stan
+src/tests/__init__.py
+src/tests/test_functional_data.py

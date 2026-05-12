@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: MultivariateBLF
+Version: 0.0.0
+Summary: Multivariate Bayesian Latent Factor model with functional effects based on basis functions.
+Author-email: Bruno Ursino <bruno.ursino@polimi.it>
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

@@ -1,0 +1,14 @@
+[project]
+name = "MultivariateBLF"
+version = "0.0.0"
+description = "Multivariate Bayesian Latent Factor model with functional effects based on basis functions."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [
+  { name = "Bruno Ursino", email = "bruno.ursino@polimi.it" }
+]
+
+[tool.setuptools.package-data]
+"MultivariateBLF.stan" = ["*.stan"]
+
